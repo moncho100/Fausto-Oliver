@@ -1,0 +1,23 @@
+body{
+    background-image: url(/Assets/IMG_4344.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+footer{
+    background-color: skyblue;
+}
+
+.card-border{
+    border: black 20px;
+}
+
+.a-fontf,
+.h2-fontf{
+    font-family: "Mr De Haviland";
+}
+
+.h4-fontf{
+    font-family: 'Open Sans', sans-serif;
+}
+
